@@ -34,7 +34,7 @@ public class Problema03 {
         empleado = entrada.nextLine();
         System.out.println("Ingrese el tipo de empleado (1, 2, 3, 4 u otro): ");
         tipo = entrada.nextInt();
-        System.out.println("Ingrese los anios de servicio: ");
+        System.out.println("Ingrese los años de servicio: ");
         anios = entrada.nextInt();
 System.out.println("Ingrese el sueldo actual: ");
         sueldoActual = entrada.nextDouble();
